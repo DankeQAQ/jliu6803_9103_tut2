@@ -7,7 +7,6 @@ I was inspired by the comet scene from the anime film "Your Name". In this scene
 ![Your Name Comet 1](assets/name1.png)
 ![Your Name Comet 2](assets/name2.png)
 
-![Flow Field Example](assets/flowfield_example.png)
 ---
 
 ## 💻 Part 2: Coding Technique Exploration
